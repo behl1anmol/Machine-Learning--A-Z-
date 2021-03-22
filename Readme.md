@@ -26,6 +26,6 @@ DEEP LEARNING
 - Implementing different logic gates using Perceptron
 
 ML BASED PROJECT
--Spam Classification using Naive Bayes Algorithm
+- Spam Classification using Naive Bayes Algorithm
 
 
