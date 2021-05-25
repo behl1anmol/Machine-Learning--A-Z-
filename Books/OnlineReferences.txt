@@ -1,0 +1,19 @@
+ONLINE RESOURCES
+Data Mining and Machine Learning Algorithms [https://dataminingbook.info/] - 
+    Book - https://dataminingbook.info/book_html/
+    Videos - https://dataminingbook.info/videos/
+Pandas - https://pandas.pydata.org/docs/, https://github.com/jvns/pandas-cookbook
+Numpy - https://numpy.org/doc/stable/, 
+
+
+COURSES
+Machine Learning Andrew NG [complete course] - https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+Mathematics for Machine Learning Specialization - https://www.coursera.org/specializations/mathematics-machine-learning#courses
+Python for Everybody Specialization - https://www.coursera.org/specializations/python
+
+SOME TIPS
+1) Learn Python 
+2) Go through maths for ML
+3) Refer Data Mining and ML Algorithms for ML algorithms
+4) Watch Andrew NG's lectures
+2)Practice Machine Learning on Kaggle after having a good experience.
